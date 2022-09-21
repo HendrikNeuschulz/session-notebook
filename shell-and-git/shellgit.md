@@ -9,3 +9,7 @@ create feature branch :
 switch between the branches:
 
 - git switch e.g. main
+
+branch anzeigen:
+
+- git branch --all
